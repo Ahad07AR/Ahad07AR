@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ahad
-- 👀 I’m interested in Artificial Intelligence and Machine Learning
+- 👀 I’m interested in Artificial Intelligence, Data Engineering and Cloud technologies.
 - 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on AI/ML,data and devOps projects
+- 💞️ I’m looking to collaborate on AI/ML, data and DevOps projects
 - 📫 How to reach me ahadrehman77@outlook.com or https://www.linkedin.com/in/ahadrehman-ar/
 - 😄 Pronouns: He/Him
 
